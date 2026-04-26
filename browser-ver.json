@@ -10,6 +10,10 @@
       "version": "2.0.0",
       "url": "https://raw.githubusercontent.com/DrSwalster/browser-STI/main/browse-interface.html"
     },
+    "browse.html": {
+      "version": "2.0.0",
+      "url": "https://raw.githubusercontent.com/DrSwalster/browser-STI/main/browse.html"
+    },
     "settings.html": {
       "version": "2.0.0",
       "url": "https://raw.githubusercontent.com/DrSwalster/browser-STI/main/settings.html"
