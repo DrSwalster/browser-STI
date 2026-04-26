@@ -1,0 +1,19 @@
+{
+  "version": "2.0.0",
+  "build_date": "2025-01-15",
+  "files": {
+    "sti.py": {
+      "version": "2.0.0",
+      "url": "https://raw.githubusercontent.com/DrSwalster/browser-STI/main/sti.py"
+    },
+    "browse-interface.html": {
+      "version": "2.0.0",
+      "url": "https://raw.githubusercontent.com/DrSwalster/browser-STI/main/browse-interface.html"
+    },
+    "settings.html": {
+      "version": "2.0.0",
+      "url": "https://raw.githubusercontent.com/DrSwalster/browser-STI/main/settings.html"
+    }
+  },
+  "auto_update": true
+}
